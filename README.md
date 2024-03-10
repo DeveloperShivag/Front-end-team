@@ -1,7 +1,7 @@
 # Front-end-team
 # Login Page Web Development Project
 
-This project is a demonstration of a simple login page created using HTML, CSS, and JavaScript.
+This project is a demonstration of a simple login page created using HTML, CSS, JavaScript and Bootstrap.
 
 ## Features
 
@@ -15,6 +15,7 @@ This project is a demonstration of a simple login page created using HTML, CSS, 
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Usage
 
